@@ -57,6 +57,7 @@ REGISTER NO:212223220101
 
 ## Output :
 ![out](https://github.com/21003698/Single-server-infinite-capacity---Markov-Model/assets/93427522/56a83ac2-cbd6-41e5-a0ab-788d37c1160d)
+
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
